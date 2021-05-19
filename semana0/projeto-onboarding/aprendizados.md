@@ -1,0 +1,2 @@
+# Aprendizados da semana 
+Com certeza foi uma semana repleta de aprendizados, aprendemos a nevegar pelo terminal e seus principais comandos, além de conhecermos a ferramenta de versionamento de código **Git** e a plataforma **GitHub**, além disso fizemos uma série de exercícios para fixarmos o conteúdo e tivemos acesso a um material maravilhoso feito pelos instrutores da Labenu. 
