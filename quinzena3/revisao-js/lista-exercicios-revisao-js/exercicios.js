@@ -3,9 +3,9 @@
 // Minha lógica 
 
 function inverteArray(array) {  
-      let arrayInverte = array.map((valor, i) => // Adicionei parametro de elemento e indice 
+      let arrayInvertee = array.map((valor, i) => // Adicionei parametro de elemento e indice 
             array[array.length - 1 -i]) // tamanho do array - 1 para ter o ultimo elemento menos o indice negativo, essa conta me devolve um a um os elementos de trás para frente, isso ocorre por conta dos parâmetros adicionados.  
-      return arrayInverte // retornei a variavel 
+      return arrayInvertee // retornei a variavel 
     }
 
 // ************* Lógica sugerida pela lista de revisão ***************
